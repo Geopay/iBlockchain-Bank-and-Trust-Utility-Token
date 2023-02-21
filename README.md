@@ -15,6 +15,7 @@
 
 ## Table of Contents
 - [Tokenomics](#Tokenomics)
+- [Whitepaper](#Whitepaper)
 - [Usage](#usage)
 - [Wiki](#Wiki)
 - [Contribute](#contribute)
