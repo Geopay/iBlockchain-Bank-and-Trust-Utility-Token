@@ -3,8 +3,6 @@
 ## Welcome to iBlockchain Bank and Trust Utility Token
 [![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
->iBBT enables access control to a stack of decentralized utilities in a crypto-banking system. This includes smart identity provision for privacy and compliance. The iBBT also facilitates consumption of certain financial services; including, on-net conversion to digital asset purchases/swaps or secure custody in a corresponding Open Banking Marketplace
-
 > What is an iBBT Utility Token or (iBBT)?  
 - Ethplorer Mainnet : [0x691c25c461dafc47792b6e4d674fbb637bca1c6f](https://ethplorer.io/address/0x691c25c461dafc47792b6e4d674fbb637bca1c6f#chart=candlestick)
 - Etherscan Mainnet : [0x691c25c461dafc47792b6e4d674fbb637bca1c6f](https://etherscan.io/address/0x691c25c461dafc47792b6e4d674fbb637bca1c6f)
@@ -12,6 +10,15 @@
 - Market Cap 10,000,000,000
 - Total supply of iBBT 10,000,000,000  
 
+## Introduction
+
+# What is an iBBT™ Open Banking™ Network?
+
+Core Mission
+
+Blockchain and distributed ledgers have a bright future. As real-time, open-source, and trusted platforms that securely transmit data and value, they can help banks reduce the cost of processing payments and create new products and services that can generate significant new revenue streams.
+
+The biggest key to turning blockchain's potential into reality is a collaborative effort among iBBT™ Open Banking members to create the next generation of fiat-to-crypto convergence networks necessary to support global payments. iBBT™ looks at the bigger picture and works with merchants—and non-banks—to help define the backbone that can underpin a universally accepted consumer/merchant adaptable, ubiquitous global payment system that can transform how merchants and consumers execute transactions.
 
 ## Table of Contents
 - [Tokenomics](#Tokenomics)
