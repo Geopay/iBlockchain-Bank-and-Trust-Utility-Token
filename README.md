@@ -34,7 +34,7 @@
 [Tokenomics Paper](https://github.com/ibbtco/iBBT-Utility-Token/blob/master/docs/whitepapers/iBBT%20Utility%20Token%20%5BiBBT%5D%20(v3.3)%20WhitePaper.pdf)
 
 ## Wiki
-[Project Wiki](https://github.com/Green-Tech-Coin/GreenTechCoin/wiki)
+[Project Wiki](https://github.com/ibbtco/iBBT-Utility-Token/wiki)
 
 ## License
 
